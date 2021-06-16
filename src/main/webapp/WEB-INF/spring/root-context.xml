@@ -8,9 +8,9 @@
 		class="org.springframework.jdbc.datasource.DriverManagerDataSource">
 		<property name="driverClassName"
 			value="com.mysql.jdbc.Driver"></property>
-		<property name="url" value="jdbc:mysql://localhost:3306/findhome?characterEncoding=utf8"></property>
-		<property name="username" value="jspid"></property>
-		<property name="password" value="jsppass"></property>
+		<property name="url" value="jdbc:mysql://localhost:3306/itwillbs2?characterEncoding=utf8"></property>
+		<property name="username" value="itwillbs2"></property>
+		<property name="password" value="itwillbs8030909"></property>
 	</bean>
 
 	<bean id="sqlSessionFactory"
