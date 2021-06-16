@@ -114,7 +114,7 @@
 							<input type="submit" value="로그인" class="btn btn-primary py-3 px-5" id="btn">
 						</div>
 						
-						<a href="https://kauth.kakao.com/oauth/authorize?client_id=c8b68959528f17086eb38f6bc7df7c75&redirect_uri=http://localhost:8080/auth/kakao/callback&response_type=code"><img src="//k.kakaocdn.net/14/dn/btqCn0WEmI3/nijroPfbpCa4at5EIsjyf0/o.jpg" width="222" /></a>
+						<a href="https://kauth.kakao.com/oauth/authorize?client_id=cb04aa3b14b605e3f4ce52f66ec99303&redirect_uri=http://localhost:8080/auth/kakao/callback&response_type=code"><img src="//k.kakaocdn.net/14/dn/btqCn0WEmI3/nijroPfbpCa4at5EIsjyf0/o.jpg" width="222" /></a>
 
 
 					</form>

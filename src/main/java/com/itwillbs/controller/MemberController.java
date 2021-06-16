@@ -402,8 +402,8 @@ public class MemberController {
 
 	  StringBuffer url = new StringBuffer();
 	  url.append("https://kauth.kakao.com/oauth/authorize?");
-	  url.append("client_id=" + "b0993beef1eb3df1922ad92776e6688b");
-	  url.append("&redirect_uri=http://localhost:8080/findhome/kakaologin");
+	  url.append("client_id=" + "cb04aa3b14b605e3f4ce52f66ec99303");
+	  url.append("&redirect_uri=http://itwillbs2.cafe24.com/findhome/kakaologin");
 	  url.append("&response_type=code");
 
 	  return "redirect:" + url.toString();

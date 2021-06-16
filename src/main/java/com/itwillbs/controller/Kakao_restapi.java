@@ -27,9 +27,9 @@ public class Kakao_restapi {
  
         postParams.add(new BasicNameValuePair("grant_type", "authorization_code"));
  
-        postParams.add(new BasicNameValuePair("client_id", "b0993beef1eb3df1922ad92776e6688b"));
+        postParams.add(new BasicNameValuePair("client_id", "cb04aa3b14b605e3f4ce52f66ec99303"));
  
-        postParams.add(new BasicNameValuePair("redirect_uri", "http://localhost:8080/findhome/kakaologin"));
+        postParams.add(new BasicNameValuePair("redirect_uri", "http://itwillbs2.cafe24.com/findhome/kakaologin"));
  
         postParams.add(new BasicNameValuePair("code", autorize_code));
  
